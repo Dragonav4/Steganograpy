@@ -58,6 +58,7 @@ The project is structured into various modules, including **command handlers, en
 2. Ensure that `cmake-build-debug` exists.
 3. **Navigate to the build directory** (`cd cmake-build-debug`).
 4. Run `./Steganography -h` to **see the available commands**.
+
 ![Gameplay GIF](ImagesToTesting/ExampleOfExecution.png)
 
 ---
